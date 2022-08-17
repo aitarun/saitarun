@@ -1,0 +1,4 @@
+[[redirects]]
+   from = "/*"
+   to = "/HELLO WORLD.html"
+   status = 301
